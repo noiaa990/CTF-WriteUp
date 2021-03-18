@@ -137,7 +137,8 @@
      - The base64-encoded content in the attached file has been encrypted via AES
      - CLUsFeOpcKy9qzeyuqVEuGJwIV9CZep3p/SeqKaQ9JXfl6PEpEE7gInM+mOfdtUi
    - Hind
-     - Key is PROTECK YA NECK
+     - Key is a "PROTECK YA NECK"
+     - use online tool to decrypt it with a key.
      
  - **Congo-Brazzaville 5.03 - Fixed XOR1**
    - Description
