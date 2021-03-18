@@ -16,7 +16,8 @@
    - Description
      This challenge is looking for a secret number
    - Hind
-     
+   ![Image](https://github.com/noiaa990/CTF-WriteUp/blob/main/107canada.JPG)
+   ![Image](https://github.com/noiaa990/CTF-WriteUp/blob/main/107canada_2.JPG) 
    
    
    
