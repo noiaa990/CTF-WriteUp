@@ -22,14 +22,12 @@
    - Description
      - Three documents: first the riddle, then the answer, then the flag.
    - Hind
-     - 
    
 - 1.07 Canada - secret numer 2 
    - Description
      - This challenge is looking for a secret number
      - A geometric number series this time, but with a twist at the end: the flag is encoded.
    - Hind
-     - 
 - 1.04 Turkmenistan - Hidden user
    - Description
      - Another number series? Some engineers love maths.
@@ -48,12 +46,7 @@
    - Hind    
    
    
-   
-   
-   
-   
-   
-   
+     
 **CTF WEEK2**
 
  - Myanmar 2.11 - IDOR1
