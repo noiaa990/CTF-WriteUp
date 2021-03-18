@@ -114,4 +114,4 @@
    - Description
      2a4354467b4272696e67204461205275636b75737d
    - Hind
-   
+     This is a stretch challenge and use a decoder tool in burp to decode it.
