@@ -90,35 +90,35 @@
 *This week is about SQL Injection attacks by sending malicious input to a web application.*
 
  - **Thailand 4.02 - Painless**
-   - Description
-    - Seems like you are trailing behind and creating a space.
-   - Hind
+    - Description
+      - Seems like you are trailing behind and creating a space.
+    - Hind
  - **Japan 4.06 - Alternative**
-   - Description
-    - They say 'when in doubt bet on wildcards.
-   - Hind
-    - make a list of SQL Injection code and use burp to find it 
-    - or manual trype in one by one to to force web app show table of database that keep CTF Flag
+     - Description
+       - They say 'when in doubt bet on wildcards.
+     - Hind
+       - make a list of SQL Injection code and use burp to find it 
+       - or manual trype in one by one to to force web app show table of database that keep CTF Flag
  - **Mongolia 4.08 -Gizmo**
-   - Description
-    - Déjà vu can feel so real it's WILD!
-   - Hind
+     - Description
+       - Déjà vu can feel so real it's WILD!
+     - Hind
  - **Yemen 4.03 - Logic**
-   - Description
-     Keep everything close and don't leave any spaces!
-   - Hind 
+    - Description
+      - Keep everything close and don't leave any spaces!
+    - Hind 
  - **Kenya 4.05 -wild one**
    - Description
-     What's yoUR dream job type? I have aLways wanted to be a flag holder. 
+     - What's yoUR dream job type? I have aLways wanted to be a flag holder. 
      I hope my dream comes true.
    - Hind 
  - **France 4.04 - Censor**
    - Description
-     Have you read any interesting comments recently?
+     - Have you read any interesting comments recently?
    - Hind  
  - **Spain 4.01 - Hello, SQLi**
    - Description
-     Sometimes the simplest answer is the true one.
+     - Sometimes the simplest answer is the true one.
    - Hind
   
   
