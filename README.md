@@ -12,7 +12,11 @@
 - 1.02 Namibia 
    - Description
    - Hind
-   
+- 1.07 Canada
+   - Description
+     This challenge is looking for a secret number
+   - Hind
+     
    
    
    
