@@ -4,7 +4,7 @@
 
 
 
-**CTF WEEK1** 
+**CTF WEEK1
 - 1.01 Zimbabwe - Peculiar Employees
    - Description
      - Sometimes it's not what you add but what you take away instead
