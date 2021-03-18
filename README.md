@@ -12,12 +12,22 @@
 - 1.02 Namibia 
    - Description
    - Hind
+
+
+- 1.06 Indonesia
+   - Description
+   - Hind
+   
 - 1.07 Canada
+  ![Image](https://github.com/noiaa990/CTF-WriteUp/blob/main/107canada.JPG)
+  ![Image](https://github.com/noiaa990/CTF-WriteUp/blob/main/107canada_2.JPG) 
+  
    - Description
      This challenge is looking for a secret number
    - Hind
-   ![Image](https://github.com/noiaa990/CTF-WriteUp/blob/main/107canada.JPG)
-   ![Image](https://github.com/noiaa990/CTF-WriteUp/blob/main/107canada_2.JPG) 
+
+
+ 
    
    
    
