@@ -5,7 +5,7 @@
 
 
 
-**CTF WEEK1**
+# **CTF WEEK1** 
 - **1.01 Zimbabwe - Peculiar Employees**
   - <img src="folderImages/week1_zimbabwe.JPG" width="400">
    - Description
@@ -59,83 +59,99 @@
    
    
      
-**CTF WEEK2**
-*Cookie and Session Based Attacks-The attackers can forge requests, steal cookies, and hijack browser sessions to gain access to privileged actions.*
+# **CTF WEEK2**
+
+*Cookie and Session Based Attacks-The attackers can forge requests, steal cookies, 
+and hijack browser sessions to gain access to privileged actions.*
 
  - **Myanmar 2.11 - IDOR1**
+   - <img src="folderImages/week2_Burma.png" width="400"> 
    - Description
      - IDOR Flag 1
    - Hind
      - Do nothing with this one
      - Free flag showup 
  - **Iran 2.05 - CSRF5**
+   - <img src="folderImages/week2_Iran.JPG" width="400"> 
    - Description
      - Again with these methods!?
    - Hind
      - Need burp to find a flag (repeater)
      - change GET to POST 
  - **Chile 2.13 - IDOR3**
+   - <img src="folderImages/week2_Chile.JPG" width="400"> 
    - Description
      - What id do I have to set to get a flag around here??
    - Hind
      - Use intruder tool in burp looking for id that will give a flag
  - **United States 2.09 - CSRF9**
+   - <img src="folderImages/week2_USA.JPG" width="400"> 
    - Description
      - Fine, I'll just mostly do it myself
      - 
    - Hind
      - 
  - **Mexico 2.15 - Sessions2**
+   - <img src="folderImages/week2_Mexico.JPG" width="400"> 
    - Description
      - The developer accidentally left a debugging tool available at https://flags.codepath.com/http/public/hacktools/change_session_id.php
    - Hind
      - use burp look for session id and use link that they provide to change it.
      - after session id change, flag will show on web app.
  - **Venezuela 2.07 - CSRF7**
+   - <img src="folderImages/week2_Venezuela.JPG" width="400"> 
    - Description
      - To change or not to change
    - Hind
      
  
   
-**CTF WEEK4**
+# **CTF WEEK4**
 
 *This week is about SQL Injection attacks by sending malicious input to a web application.*
 
  - **Thailand 4.02 - Painless**
+   - <img src="folderImages/Week4_Thailand.JPG" width="400"> 
     - Description
       - Seems like you are trailing behind and creating a space.
     - Hind
  - **Japan 4.06 - Alternative**
+   -  <img src="folderImages/Week4_Japan.JPG" width="400"> 
      - Description
        - They say 'when in doubt bet on wildcards.
      - Hind
        - make a list of SQL Injection code and use burp to find it 
        - or manual trype in one by one to to force web app show table of database that keep CTF Flag
  - **Mongolia 4.08 -Gizmo**
+   -<img src="folderImages/Week4_Mongolia.JPG" width="400"> 
      - Description
        - Déjà vu can feel so real it's WILD!
      - Hind
+       - 
  - **Yemen 4.03 - Logic**
+   - <img src="folderImages/Week4_Yemen.JPG" width="400"> 
     - Description
       - Keep everything close and don't leave any spaces!
     - Hind 
  - **Kenya 4.05 -wild one**
+    - <img src="folderImages/week4_Kenya.JPG" width="400"> 
    - Description
      - What's yoUR dream job type? I have aLways wanted to be a flag holder. 
      I hope my dream comes true.
    - Hind 
  - **France 4.04 - Censor**
+   - <img src="folderImages/Week4_France.JPG" width="400"> 
    - Description
      - Have you read any interesting comments recently?
    - Hind  
  - **Spain 4.01 - Hello, SQLi**
+   - <img src="folderImages/Week4_Spain.JPG" width="400"> 
    - Description
      - Sometimes the simplest answer is the true one.
    - Hind
   
   
-**CTF WEEK 5**
+# **CTF WEEK 5**
  - **Colombia 5.08 - Crypto/IDOR**
    - <img src="folderImages/Week5_Colombia.JPG" width="400"> 
    - Description
