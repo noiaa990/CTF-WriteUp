@@ -26,7 +26,7 @@
      - Three documents: first the riddle, then the answer, then the flag.
    - Hind
    
-- **1.07 Canada - secret numer 2** 
+- **1.07 Canada - secret numer2** 
 
 - <img src="https://github.com/noiaa990/CTF-WriteUp/blob/main/107canada_2.JPG" width="500">
    
