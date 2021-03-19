@@ -34,28 +34,33 @@
      - This challenge is looking for a secret number
      - A geometric number series this time, but with a twist at the end: the flag is encoded.
    - Hind
-
+     - finding a number that keep ctf flag by using burp to get a number
 
 - **1.04 Turkmenistan - Hidden user**
   - <img src="folderImages/week1_Turkmenistan.JPG" width="400"> 
    - Description
      - Another number series? Some engineers love maths.
    - Hind
+     - User on web page is not what we want.
+     - look for user id. 
 - **1.11 Egypt - Key player2**
   - <img src="folderImages/week1_Egypt.JPG" width="400"> 
    - Description
      - This time the developer was 'smart' and encoded the param values.
    - Hind
+     - 
 - **1.05 Chad - Odd list**
   - <img src="folderImages/week1_Chad.JPG" width="400"> 
    - Description
      - One of these lists is not like the others.
    - Hind 
+     - The List That Does Not Belong Contains The Answer You Seek
 - **1.09 Nigeria - Secret Number 3**
   - <img src="folderImages/week1_Nigeria.JPG" width="400"> 
    - Description
      - Here we have a famous number sequence (think: seashells) and an unlinked page with a clue.
-   - Hind    
+   - Hind 
+     - The number is not on a list.   
    
    
      
