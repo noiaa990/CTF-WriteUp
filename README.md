@@ -7,11 +7,13 @@
 
 **CTF WEEK1**
 - **1.01 Zimbabwe - Peculiar Employees**
+  - <img src="folderImages/week1_zimbabwe.JPG" width="400">
    - Description
      - Sometimes it's not what you add but what you take away instead
    - Hind
    
 - **1.02 Namibia - secre number1**
+  - <img src="folderImages/week1_Namibia.JPG" width="400"> 
    - Description
      - Seems like there's a sequence to those numbers, wonder what would happen if you 
        used the next number in the sequence?
@@ -19,6 +21,7 @@
 
 
 - **1.06 Indonesia**
+  - <img src="folderImages/Week1_Indo.JPG" width="400"> 
    - Description
      - Three documents: first the riddle, then the answer, then the flag.
    - Hind
@@ -34,18 +37,22 @@
 
 
 - **1.04 Turkmenistan - Hidden user**
+  - <img src="folderImages/week1_Turkmenistan.JPG" width="400"> 
    - Description
      - Another number series? Some engineers love maths.
    - Hind
 - **1.11 Egypt - Key player2**
+  - <img src="folderImages/week1_Egypt.JPG" width="400"> 
    - Description
      - This time the developer was 'smart' and encoded the param values.
    - Hind
 - **1.05 Chad - Odd list**
+  - <img src="folderImages/week1_Chad.JPG" width="400"> 
    - Description
      - One of these lists is not like the others.
    - Hind 
 - **1.09 Nigeria - Secret Number 3**
+  - <img src="folderImages/week1_Nigeria.JPG" width="400"> 
    - Description
      - Here we have a famous number sequence (think: seashells) and an unlinked page with a clue.
    - Hind    
