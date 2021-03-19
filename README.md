@@ -60,6 +60,7 @@
    
      
 **CTF WEEK2**
+*Cookie and Session Based Attacks-The attackers can forge requests, steal cookies, and hijack browser sessions to gain access to privileged actions.*
 
  - **Myanmar 2.11 - IDOR1**
    - Description
@@ -136,6 +137,7 @@
   
 **CTF WEEK 5**
  - **Colombia 5.08 - Crypto/IDOR**
+   - <img src="folderImages/Week5_Colombia.JPG" width="400"> 
    - Description
      - The flag is encrypted with a cipher from the ancient world.
    - Hind
@@ -145,6 +147,7 @@
        - Decode ancient world to text by recommenced tool (http://rumkin.com/tools/cipher/atbash.php)
      
  - **Brazil 5.07 - PROTECK YA NECK**
+   - <img src="folderImages/Week5_Brazil.JPG" width="400"> 
    - Description
      - The base64-encoded content in the attached file has been encrypted via AES
      - CLUsFeOpcKy9qzeyuqVEuGJwIV9CZep3p/SeqKaQ9JXfl6PEpEE7gInM+mOfdtUi
@@ -160,6 +163,7 @@
     - 
   
  - **Azerbaijan 5.01 -Decode the flag 1**
+   - <img src="folderImages/Week5_Azerbaijan.JPG" width="400"> 
    - Description
      - Encode is look like base64
      - KkNURntraWxsaW5nIHlvdXIgYnJhaW4gbGlrZSBhIHBvaXNvbm91cyBtdXNocm9vbX0=
