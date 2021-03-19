@@ -24,10 +24,15 @@
    - Hind
    
 - **1.07 Canada - secret numer 2** 
+
+- <img src="https://github.com/noiaa990/CTF-WriteUp/blob/main/107canada_2.JPG" width="500">
+   
    - Description
      - This challenge is looking for a secret number
      - A geometric number series this time, but with a twist at the end: the flag is encoded.
    - Hind
+
+
 - **1.04 Turkmenistan - Hidden user**
    - Description
      - Another number series? Some engineers love maths.
