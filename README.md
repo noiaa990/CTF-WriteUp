@@ -93,7 +93,6 @@ and hijack browser sessions to gain access to privileged actions.*
    - <img src="folderImages/week2_USA.JPG" width="400"> 
    - Description
      - Fine, I'll just mostly do it myself
-     - 
    - Hind
      - 
  - **Mexico 2.15 - Sessions2**
@@ -103,6 +102,7 @@ and hijack browser sessions to gain access to privileged actions.*
    - Hind
      - use burp look for session id and use link that they provide to change it.
      - after session id change, flag will show on web app.
+     - session id is from hind from session 1
  - **Venezuela 2.07 - CSRF7**
    - <img src="folderImages/week2_Venezuela.JPG" width="400"> 
    - Description
