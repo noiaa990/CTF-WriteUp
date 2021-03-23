@@ -126,7 +126,18 @@ steal cookies, and hijack browser sessions to gain access to privileged actions.
    - Description
      - To change or not to change
    - Hind
-     
+ 
+ - **Afghanistan 2.03 - CSRF3**
+   - <img src="folderImages/week2_csrf3.JPG" width="350"> 
+   - Description
+     - Is there anywhere else I can appear to be admin?
+   - Hind
+     - I need to find a way to become an admin to update info....
+     - go to Burp Suite
+     - <img src="folderImages/week2_CSRF3_2.JPG" width="350"> 
+     - Go to 'reapeater' tool, cahnge csrf_token and session id  to admin
+     - Press send to see response and check if we going to get ctf flag
+     - <img src="folderImages/week2_CSRF3_1.JPG" width="350"> 
  
   
 # **CTF WEEK4**
