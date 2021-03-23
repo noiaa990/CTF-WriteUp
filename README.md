@@ -94,7 +94,7 @@ steal cookies, and hijack browser sessions to gain access to privileged actions.
    - Description
      - Fine, I'll just mostly do it myself
    - Hind
-     - 
+   
  - **Mexico 2.15 - Sessions2**
    - <img src="folderImages/week2_Mexico.JPG" width="400"> 
    - Description
