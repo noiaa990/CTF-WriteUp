@@ -88,7 +88,7 @@ steal cookies, and hijack browser sessions to gain access to privileged actions.
    - Description
      - What id do I have to set to get a flag around here??
    - Hind
-     - Use intruder tool in burp looking for id that will give a flag
+     - Use intruder tool in burp looking for id that will give a ctf flag.
  - **United States 2.09 - CSRF9**
    - <img src="folderImages/week2_USA.JPG" width="400"> 
    - Description
@@ -162,9 +162,9 @@ steal cookies, and hijack browser sessions to gain access to privileged actions.
    - Description
      - The flag is encrypted with a cipher from the ancient world.
    - Hind
-     - Needed 2 step to find ctf answer
-       - Use IDOR sloving concept looking for user ID by using intruder in burp to get an id 
-         and it will show the ancient world that look like ctf format
+     - This challenge I need 2 step to finding a ctf flag answer
+       - Use IDOR sloving concept form another week looking for user ID by using intruder in burp to get an id 
+         that hiding ancient world and then it will show the ancient world that look like ctf format.
        - Decode ancient world to text by recommenced tool (http://rumkin.com/tools/cipher/atbash.php)
      
  - **Brazil 5.07 - PROTECK YA NECK**
@@ -173,8 +173,9 @@ steal cookies, and hijack browser sessions to gain access to privileged actions.
      - The base64-encoded content in the attached file has been encrypted via AES
      - CLUsFeOpcKy9qzeyuqVEuGJwIV9CZep3p/SeqKaQ9JXfl6PEpEE7gInM+mOfdtUi
    - Hind
+     - open attack file. 
      - Key is a "PROTECK YA NECK"
-     - use online tool to decrypt it with a key.
+     - use an online tool to decrypt it with a key.
      
  - **Congo-Brazzaville 5.03 - Fixed XOR1**
    - Description
@@ -183,14 +184,16 @@ steal cookies, and hijack browser sessions to gain access to privileged actions.
    - Hind
      - This challenge give us two string 
   
- - **Azerbaijan 5.01 -Decode the flag 1**
-   
+  
+ - **Azerbaijan 5.01 -Decode the flag 1**   
    - Description
-     - Encode is look like base64
      - KkNURntraWxsaW5nIHlvdXIgYnJhaW4gbGlrZSBhIHBvaXNvbm91cyBtdXNocm9vbX0=
    - Hind
+     - This string is give a format of base64.
+     - First thing I would try to do is to decode it by using burp suite.
      - This is a stretch challenge and use a decoder tool in burp to decode it.
      -  <img src="folderImages/Week5_Azerbaijan.JPG" width="400"> 
+     
      
  - **Central African Republic 5.02 - Decode the flag 2**
    - Description
