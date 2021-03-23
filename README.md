@@ -184,7 +184,7 @@ and hijack browser sessions to gain access to privileged actions.*
     - 
   
  - **Azerbaijan 5.01 -Decode the flag 1**
-   - <img src="folderImages/Week5_Azerbaijan.JPG" width="400"> 
+   
    - Description
      - Encode is look like base64
      - KkNURntraWxsaW5nIHlvdXIgYnJhaW4gbGlrZSBhIHBvaXNvbm91cyBtdXNocm9vbX0=
@@ -196,3 +196,4 @@ and hijack browser sessions to gain access to privileged actions.*
      - 2a4354467b4272696e67204461205275636b75737d
    - Hind
      - Decoding by ool online.
+- <img src="folderImages/Week5_Azerbaijan.JPG" width="400"> 
