@@ -122,17 +122,18 @@ steal cookies, and hijack browser sessions to gain access to privileged actions.
     - Hind
  - **Japan 4.06 - Alternative**
    -  <img src="folderImages/Week4_Japan.JPG" width="400"> 
+   -  <img src="folderImages/sql.JPG" width="300"> 
      - Description
        - They say 'when in doubt bet on wildcards.
      - Hind
        - make a list of SQL Injection code and use burp(Intruder)to find it. 
        - or manual trype in one by one to force the web app show table of database that keep 'CTF Flag'
  - **Mongolia 4.08 -Gizmo**
-   -<img src="folderImages/Week4_Mongolia.JPG" width="400"> 
-     - Description
-       - Déjà vu can feel so real it's WILD!
+   - <img src="folderImages/Week4_Mongolia.JPG" width="400"> 
+    - Description
+        - Déjà vu can feel so real it's WILD!
      - Hind
-       - 
+        
  - **Yemen 4.03 - Logic**
    - <img src="folderImages/Week4_Yemen.JPG" width="400"> 
     - Description
