@@ -200,5 +200,8 @@ steal cookies, and hijack browser sessions to gain access to privileged actions.
    - Description
      - 2a4354467b4272696e67204461205275636b75737d
    - Hind
-     - Decoding by tool online.
+     - This string is give me a ASCII format 
+     - Nothing looks complicate for me to just try decoding it.
+     - Recommend decoding tool in Burp Suite.
+     - <img src="folderImages/Week5_flag2.JPG" width="400"> 
 
