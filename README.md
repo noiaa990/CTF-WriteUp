@@ -103,6 +103,7 @@ steal cookies, and hijack browser sessions to gain access to privileged actions.
      - use burp look for session id and use link that they provide to change it.
      - after session id change, flag will show on web app.
      - session id is from hind from session 1
+     
  - **Venezuela 2.07 - CSRF7**
    - <img src="folderImages/week2_Venezuela.JPG" width="400"> 
    - Description
@@ -126,6 +127,7 @@ steal cookies, and hijack browser sessions to gain access to privileged actions.
      - Description
        - They say 'when in doubt bet on wildcards.
      - Hind
+       - open notepad
        - make a list of SQL Injection code and use burp(Intruder)to find it. 
        - or manual trype in one by one to force the web app show table of database that keep 'CTF Flag'
  - **Mongolia 4.08 -Gizmo**
