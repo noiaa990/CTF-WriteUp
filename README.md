@@ -125,8 +125,8 @@ steal cookies, and hijack browser sessions to gain access to privileged actions.
      - Description
        - They say 'when in doubt bet on wildcards.
      - Hind
-       - make a list of SQL Injection code and use burp to find it 
-       - or manual trype in one by one to to force web app show table of database that keep CTF Flag
+       - make a list of SQL Injection code and use burp(Intruder)to find it. 
+       - or manual trype in one by one to force the web app show table of database that keep 'CTF Flag'
  - **Mongolia 4.08 -Gizmo**
    -<img src="folderImages/Week4_Mongolia.JPG" width="400"> 
      - Description
@@ -178,10 +178,10 @@ steal cookies, and hijack browser sessions to gain access to privileged actions.
      
  - **Congo-Brazzaville 5.03 - Fixed XOR1**
    - Description
-    - *CTF{value} where 'value' is the XOR of the following two strings (excluding quotes): 
-     '42696c6c792c20646f6e27' and '742062652061206865726f'*
+     - *CTF{value} where 'value' is the XOR of the following two strings (excluding quotes): 
+       '42696c6c792c20646f6e27' and '742062652061206865726f'*
    - Hind
-    - 
+     - This challenge give us two string 
   
  - **Azerbaijan 5.01 -Decode the flag 1**
    
@@ -190,10 +190,11 @@ steal cookies, and hijack browser sessions to gain access to privileged actions.
      - KkNURntraWxsaW5nIHlvdXIgYnJhaW4gbGlrZSBhIHBvaXNvbm91cyBtdXNocm9vbX0=
    - Hind
      - This is a stretch challenge and use a decoder tool in burp to decode it.
+     -  <img src="folderImages/Week5_Azerbaijan.JPG" width="400"> 
      
  - **Central African Republic 5.02 - Decode the flag 2**
    - Description
      - 2a4354467b4272696e67204461205275636b75737d
    - Hind
      - Decoding by tool online.
-   - <img src="folderImages/Week5_Azerbaijan.JPG" width="450"> 
+
