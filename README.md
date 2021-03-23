@@ -66,8 +66,8 @@
      
 # **CTF WEEK2**
 
-*Cookie and Session Based Attacks-The attackers can forge requests, steal cookies, 
-and hijack browser sessions to gain access to privileged actions.*
+*Cookie and Session Based Attacks-The attackers can forge requests, 
+steal cookies, and hijack browser sessions to gain access to privileged actions.*
 
  - **Myanmar 2.11 - IDOR1**
    - <img src="folderImages/week2_Burma.png" width="400"> 
@@ -81,8 +81,8 @@ and hijack browser sessions to gain access to privileged actions.*
    - Description
      - Again with these methods!?
    - Hind
-     - Need burp to find a flag (repeater)
-     - change GET to POST 
+     - Need burp to find a flag (repeater tool)
+     - change GET to POST Methods.
  - **Chile 2.13 - IDOR3**
    - <img src="folderImages/week2_Chile.JPG" width="400"> 
    - Description
