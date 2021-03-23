@@ -83,7 +83,7 @@ steal cookies, and hijack browser sessions to gain access to privileged actions.
      - Change user to admin and press update button to check if it work.
      - <img src="folderImages/week2_csrf1_2_2.JPG" width="300">
      - <img src="folderImages/week2_csrf1_3.JPG" width="350">
-     - It's work!!!
+     - ***It's work!!!**
 
 
  - **Myanmar 2.11 - IDOR1**
