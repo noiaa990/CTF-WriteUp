@@ -69,6 +69,21 @@
 *Cookie and Session Based Attacks-The attackers can forge requests, 
 steal cookies, and hijack browser sessions to gain access to privileged actions.*
 
+ - **Cote d'Ivoire 2.01 - CSRF1**
+   -  <img src="folderImages/week1_csrf1_1.JPG" width="300"> 
+   -  <img src="folderImages/week2_csrf1.JPG" width="300">
+   - Description
+     - I need to update the info...but who am I updating it as?
+     - Only admin can update this information..
+   - Hind
+     - First thing I should do is check on Inspector Element.
+     - Right click on web page and choose Inspector Element.
+     - look through a form and you will see csrf token value is 'user' but we need admin inorder to change.
+     - Change user to admin and press update button to check if it work.
+     - <img src="folderImages/week2_csrf1_2_2.JPG" width="300">
+     - <img src="folderImages/week2_csrf1_3.JPG" width="300">
+
+
  - **Myanmar 2.11 - IDOR1**
    - <img src="folderImages/week2_Burma.png" width="400"> 
    - Description
