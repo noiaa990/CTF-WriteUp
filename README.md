@@ -7,13 +7,13 @@
 
 # **CTF WEEK1** 
 - **1.01 Zimbabwe - Peculiar Employees**
-  - <img src="folderImages/week1_zimbabwe.JPG" width="400">
+  - <img src="folderImages/week1_zimbabwe.JPG" width="350">
    - Description
      - Sometimes it's not what you add but what you take away instead
    - Hind
    
 - **1.02 Namibia - secre number1**
-  - <img src="folderImages/week1_Namibia.JPG" width="400"> 
+  - <img src="folderImages/week1_Namibia.JPG" width="350"> 
    - Description
      - Seems like there's a sequence to those numbers, wonder what would happen if you 
        used the next number in the sequence?
@@ -21,7 +21,7 @@
 
 
 - **1.06 Indonesia**
-  - <img src="folderImages/Week1_Indo.JPG" width="400"> 
+  - <img src="folderImages/Week1_Indo.JPG" width="350"> 
    - Description
      - Three documents: first the riddle, then the answer, then the flag.
    - Hind
@@ -37,26 +37,26 @@
      - finding a number that keep ctf flag by using burp to get a number
 
 - **1.04 Turkmenistan - Hidden user**
-  - <img src="folderImages/week1_Turkmenistan.JPG" width="400"> 
+  - <img src="folderImages/week1_Turkmenistan.JPG" width="350"> 
    - Description
      - Another number series? Some engineers love maths.
    - Hind
      - User on web page is not what we want.
      - look for user id. 
 - **1.11 Egypt - Key player2**
-  - <img src="folderImages/week1_Egypt.JPG" width="400"> 
+  - <img src="folderImages/week1_Egypt.JPG" width="350"> 
    - Description
      - This time the developer was 'smart' and encoded the param values.
    - Hind
      - 
 - **1.05 Chad - Odd list**
-  - <img src="folderImages/week1_Chad.JPG" width="400"> 
+  - <img src="folderImages/week1_Chad.JPG" width="350"> 
    - Description
      - One of these lists is not like the others.
    - Hind 
      - The List That Does Not Belong Contains The Answer You Seek
 - **1.09 Nigeria - Secret Number 3**
-  - <img src="folderImages/week1_Nigeria.JPG" width="400"> 
+  - <img src="folderImages/week1_Nigeria.JPG" width="350"> 
    - Description
      - Here we have a famous number sequence (think: seashells) and an unlinked page with a clue.
    - Hind 
@@ -71,6 +71,7 @@ steal cookies, and hijack browser sessions to gain access to privileged actions.
 
  - **Cote d'Ivoire 2.01 - CSRF1**
    -  <img src="folderImages/week1_csrf1_1.JPG" width="300"> 
+   
    -  <img src="folderImages/week2_csrf1.JPG" width="300">
    - Description
      - I need to update the info...but who am I updating it as?
@@ -81,18 +82,19 @@ steal cookies, and hijack browser sessions to gain access to privileged actions.
      - look through a form and you will see csrf token value is 'user' but we need admin inorder to change.
      - Change user to admin and press update button to check if it work.
      - <img src="folderImages/week2_csrf1_2_2.JPG" width="300">
-     - <img src="folderImages/week2_csrf1_3.JPG" width="300">
+     - <img src="folderImages/week2_csrf1_3.JPG" width="350">
+     - It's work!!!
 
 
  - **Myanmar 2.11 - IDOR1**
-   - <img src="folderImages/week2_Burma.png" width="400"> 
+   - <img src="folderImages/week2_Burma.png" width="350"> 
    - Description
      - IDOR Flag 1
    - Hind
      - Do nothing with this one
      - Free flag showup 
  - **Iran 2.05 - CSRF5**
-   - <img src="folderImages/week2_Iran.JPG" width="400"> 
+   - <img src="folderImages/week2_Iran.JPG" width="350"> 
    - Description
      - Again with these methods!?
    - Hind
