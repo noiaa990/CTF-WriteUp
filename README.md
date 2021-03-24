@@ -48,7 +48,7 @@
    - Description
      - This time the developer was 'smart' and encoded the param values.
    - Hind
-     - 
+     
 - **1.05 Chad - Odd list**
   - <img src="folderImages/week1_Chad.JPG" width="350"> 
    - Description
