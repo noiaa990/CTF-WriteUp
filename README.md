@@ -54,7 +54,7 @@
    - Description
      - One of these lists is not like the others.
    - Hind 
-     - The List That Does Not Belong Contains The Answer You Seek
+     - The List That Does Not Belong Contains The Answer You Seek.
 - **1.09 Nigeria - Secret Number 3**
   - <img src="folderImages/week1_Nigeria.JPG" width="350"> 
    - Description
